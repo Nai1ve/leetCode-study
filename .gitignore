@@ -1,0 +1,12 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/src/.vs/leetCode-study
+/src/leetCode-study/x64/Debug
+/src/x64/Debug
+*.sln
+*.vcxproj
+*.filters
+*.user
